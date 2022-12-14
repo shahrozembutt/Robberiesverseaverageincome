@@ -1,2 +1,1 @@
-# Robberiesverseaverageincome
-Robberies in correlation with average income
+# Robberies in correlation with average income
